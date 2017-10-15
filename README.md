@@ -1,1 +1,1 @@
-# meteor.com.ua.io
+# meteor.is
